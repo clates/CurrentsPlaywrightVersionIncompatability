@@ -1,0 +1,12 @@
+{
+  "name": "playwrightCurrents",
+  "version": "1.0.0",
+  "description": "An example project highlighting version incompatability with currents reporter.",
+  "main": "index.js",
+  "author": "Christopher Lates <clates@crunchbase.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@currents/playwright": "1.1.6",
+    "@playwright/test": "1.32.3"
+  }
+}
